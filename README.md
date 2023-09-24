@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import continuedFraction from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-tools-continued-fraction@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-tools-continued-fraction/tags). For example,
+
+```javascript
 import continuedFraction from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-tools-continued-fraction@v0.1.0-deno/mod.js';
 ```
 
@@ -191,7 +196,7 @@ function generator() {
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import continuedFraction from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-tools-continued-fraction@v0.1.0-deno/mod.js';
+import continuedFraction from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-tools-continued-fraction@deno/mod.js';
 var out;
 
 function* generator() {
