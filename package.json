@@ -44,7 +44,7 @@
     "@stdlib/types": "^0.2.0"
   },
   "devDependencies": {
-    "@stdlib/bench": "^0.2.0",
+    "@stdlib/bench": "^0.2.1",
     "@stdlib/math-base-special-tan": "^0.1.0",
     "@stdlib/random-base-randu": "^0.1.0",
     "@stdlib/utils-eval": "^0.1.1",
