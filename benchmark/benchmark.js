@@ -20,7 +20,7 @@
 
 // MODULES //
 
-var bench = require( '@stdlib/bench' );
+var bench = require( '@stdlib/bench-harness' );
 var randu = require( '@stdlib/random-base-randu' );
 var abs = require( '@stdlib/math-base-special-abs' );
 var tan = require( '@stdlib/math-base-special-tan' );
