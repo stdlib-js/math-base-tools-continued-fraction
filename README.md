@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import continuedFraction from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-tools-continued-fraction@esm/index.mjs';
+import continuedFraction from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-tools-continued-fraction@v0.2.1-esm/index.mjs';
 ```
 
 #### continuedFraction( generator\[, options ] )
@@ -196,7 +196,7 @@ function generator() {
 <body>
 <script type="module">
 
-import continuedFraction from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-tools-continued-fraction@esm/index.mjs';
+import continuedFraction from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-tools-continued-fraction@v0.2.1-esm/index.mjs';
 var out;
 
 function* generator() {
