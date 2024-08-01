@@ -44,7 +44,7 @@
     "@stdlib/types": "^0.3.2"
   },
   "devDependencies": {
-    "@stdlib/math-base-special-tan": "^0.2.2",
+    "@stdlib/math-base-special-tan": "^0.3.0",
     "@stdlib/random-base-randu": "^0.2.1",
     "@stdlib/utils-eval": "^0.2.2",
     "proxyquire": "^2.0.0",
