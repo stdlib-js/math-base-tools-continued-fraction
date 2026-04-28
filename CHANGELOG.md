@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-02-25)
+## Unreleased (2026-04-28)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`d689d2d`](https://github.com/stdlib-js/stdlib/commit/d689d2dcba1570eedbbe3b7689dcbe1921ba11eb) - **chore:** propagate `node/` -> `n/` eslint plugin prefix update across README directives [(#11826)](https://github.com/stdlib-js/stdlib/pull/11826) _(by Philipp Burckhardt)_
 -   [`f7191c0`](https://github.com/stdlib-js/stdlib/commit/f7191c093f0607ad6de9b7a21612f36bb3a84d90) - **chore:** use relative paths and remove trailing slashes in require paths _(by Philipp Burckhardt)_
 
 </details>

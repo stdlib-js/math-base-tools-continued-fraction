@@ -82,7 +82,7 @@ Evaluates the continued fraction described by the supplied `generator` argument.
 
 Using an ES6 [Generator object][es6-generator]:
 
-<!-- eslint-disable no-restricted-syntax, node/no-unsupported-features/es-syntax -->
+<!-- eslint-disable no-restricted-syntax, n/no-unsupported-features/es-syntax -->
 
 ```javascript
 // Continued fraction for (e-1)^(-1):
@@ -204,7 +204,7 @@ function generator() {
 
 ## Examples
 
-<!-- eslint-disable no-restricted-syntax, node/no-unsupported-features/es-syntax -->
+<!-- eslint-disable no-restricted-syntax, n/no-unsupported-features/es-syntax -->
 
 <!-- eslint no-undef: "error" -->
 
